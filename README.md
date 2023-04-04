@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-I'm an web developer. 
+I'm an web developer. I gradute from [Bridgerland Technical College](https://btech.edu/) and got my Web and Mobile Development Certificate. Currently attengin Utah State Uneversity. I have done some websies here's were you can find them [Edwin Silvestre](https://www.edwinsilvestrewebsite.com/)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
