@@ -1,5 +1,8 @@
-### Hi there 👋
+### EdwinTJ
 
+**`Web Developer`**
+
+I'm an web developer. 
 <!--
 **EdwinTJ/EdwinTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
