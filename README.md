@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-I'm an web developer. I gradute from [Bridgerland Technical College](https://btech.edu/) and got my Web and Mobile Development Certificate. Currently attengin Utah State Uneversity. I have done some websites here's were you can find them [Edwin Silvestre](https://finalportafolio-egmy.vercel.app/)
+I'm a web developer. I graduated from [Bridgerland Technical College](https://btech.edu/)  and got my Web and Mobile Development Certificate. Currently attending Utah State University. I have done some websites here's where you can find them [Edwin Silvestre](https://finalportafolio-egmy.vercel.app/)
 
 [LinkedIn](www.linkedin.com/in/edwin-silvestre )
 
